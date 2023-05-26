@@ -127,7 +127,8 @@ kiwisolver==1.2.0
 lazy-object-proxy==1.4.3
 libarchive-c==2.9
 libclang==16.0.0
-llvmlite==0.33.0+1.g022ab0f
+#llvmlite==0.33.0+1.g022ab0f
+llvmlite==0.39.1
 locket==0.2.0
 #lxml @ file:///C:/ci/lxml_1594822774489/work
 lxml==4.9.2
