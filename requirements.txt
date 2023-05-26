@@ -161,7 +161,7 @@ nose==1.3.7
 notebook==6.0.3
 numba==0.50.1
 numexpr==2.7.1
-numpy==1.23.5
+numpy==1.21.6
 #numpydoc @ file:///tmp/build/80754af9/numpydoc_1594166760263/work
 numpydoc==1.5.0
 oauthlib==3.2.2
