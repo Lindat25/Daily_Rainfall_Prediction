@@ -83,43 +83,56 @@ greenlet==0.4.16
 grpcio==1.54.0
 h5py==2.10.0
 HeapDict==1.0.1
-html5lib @ file:///tmp/build/80754af9/html5lib_1593446221756/work
-idna @ file:///tmp/build/80754af9/idna_1593446292537/work
-imageio @ file:///tmp/build/80754af9/imageio_1594161405741/work
+#html5lib @ file:///tmp/build/80754af9/html5lib_1593446221756/work
+html5lib==1.1
+#idna @ file:///tmp/build/80754af9/idna_1593446292537/work
+idna==3.4
+#imageio @ file:///tmp/build/80754af9/imageio_1594161405741/work
+imageio==2.29.0
 imagesize==1.2.0
 importlib-metadata==6.6.0
-intervaltree @ file:///tmp/build/80754af9/intervaltree_1594361675072/work
-ipykernel @ file:///C:/ci/ipykernel_1594745408489/work/dist/ipykernel-5.3.2-py3-none-any.whl
-ipython @ file:///C:/ci/ipython_1593447482397/work
+#intervaltree @ file:///tmp/build/80754af9/intervaltree_1594361675072/work
+intervaltree==3.1.0
+#ipykernel @ file:///C:/ci/ipykernel_1594745408489/work/dist/ipykernel-5.3.2-py3-none-any.whl
+ipykernel==6.23.1
+#ipython @ file:///C:/ci/ipython_1593447482397/work
+ipython==8.13.2
 ipython-genutils==0.2.0
 ipywidgets==7.5.1
 isort==4.3.21
 itsdangerous==1.1.0
 jax==0.4.8
 jdcal==1.4.1
-jedi @ file:///C:/ci/jedi_1592833825077/work
+#jedi @ file:///C:/ci/jedi_1592833825077/work
+jedi==0.18.2
 Jinja2==2.11.2
-joblib @ file:///tmp/build/80754af9/joblib_1594236160679/work
+#joblib @ file:///tmp/build/80754af9/joblib_1594236160679/work
+joblib==1.2.0
 json5==0.9.5
 jsonschema==3.2.0
 jupyter==1.0.0
-jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1594826976318/work
+#jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1594826976318/work
+jupyter-client==8.2.0
 jupyter-console==6.1.0
 jupyter-core==4.6.3
 jupyterlab==2.1.5
-jupyterlab-server @ file:///tmp/build/80754af9/jupyterlab_server_1594164409481/work
+#jupyterlab-server @ file:///tmp/build/80754af9/jupyterlab_server_1594164409481/work
+jupyterlab-server==2.22.1
 keras==2.12.0
-keyring @ file:///C:/ci/keyring_1593109799227/work
+#keyring @ file:///C:/ci/keyring_1593109799227/work
+keyring==23.13.1
 kiwisolver==1.2.0
 lazy-object-proxy==1.4.3
 libarchive-c==2.9
 libclang==16.0.0
 llvmlite==0.33.0+1.g022ab0f
 locket==0.2.0
-lxml @ file:///C:/ci/lxml_1594822774489/work
+#lxml @ file:///C:/ci/lxml_1594822774489/work
+lxml==4.9.2
 Markdown==3.4.3
 MarkupSafe==1.1.1
-matplotlib @ file:///C:/ci/matplotlib-base_1592837548929/work
+#matplotlib @ file:///C:/ci/matplotlib-base_1592837548929/work
+matplotlib==3.7.1
 mccabe==0.6.1
 menuinst==1.4.16
 mistune==0.8.4
