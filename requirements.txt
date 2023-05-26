@@ -60,7 +60,7 @@ defusedxml==0.6.0
 #diff-match-patch @ file:///tmp/build/80754af9/diff-match-patch_1594828741838/work
 fast-diff-match-patch==2.0.1
 #distributed @ file:///C:/ci/distributed_1594742844291/work
-distributed==2023.5.0
+distributed==2022.2.0
 docutils==0.16
 entrypoints==0.3
 et-xmlfile==1.0.1
