@@ -39,7 +39,7 @@ chardet==3.0.4
 click==7.1.2
 #cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1594141588948/work
 cloudpickle==2.2.1
-clyent==1.2.2
+clyent==0.1.0
 colorama==0.4.3
 comtypes==1.1.7
 conda==4.8.3
