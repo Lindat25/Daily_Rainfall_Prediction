@@ -183,7 +183,8 @@ patsy==0.5.1
 pep8==1.7.1
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow @ file:///C:/ci/pillow_1594298230227/work
+#Pillow @ file:///C:/ci/pillow_1594298230227/work
+Pillow==9.5.0
 pkginfo==1.5.0.1
 pluggy==0.13.1
 ply==3.11
@@ -191,7 +192,8 @@ prometheus-client==0.8.0
 prompt-toolkit==3.0.5
 protobuf==4.22.3
 psutil==5.7.0
-py @ file:///tmp/build/80754af9/py_1593446248552/work
+#py @ file:///tmp/build/80754af9/py_1593446248552/work
+py==1.1.6
 pyasn1==0.5.0
 pyasn1-modules==0.3.0
 pycodestyle==2.6.0
