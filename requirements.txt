@@ -281,7 +281,8 @@ statsmodels==0.11.1
 sympy==1.10.1
 tables==3.6.1
 tblib==1.6.0
-tensorboard==2.12.2
+#tensorboard==2.12.2
+tensorboard==2.11.2
 tensorboard-data-server==0.7.0
 tensorboard-plugin-wit==1.8.1
 tensorflow==2.12.0
@@ -291,18 +292,24 @@ tensorflow-io-gcs-filesystem==0.31.0
 termcolor==2.3.0
 terminado==0.8.3
 testpath==0.4.4
-threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
-toml @ file:///tmp/build/80754af9/toml_1592853716807/work
+#threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
+threadpoolctl==3.0.1
+#toml @ file:///tmp/build/80754af9/toml_1592853716807/work
+toml==0.10.12
 toolz==0.10.0
 tornado==6.0.4
-tqdm @ file:///tmp/build/80754af9/tqdm_1593446365756/work
+#tqdm @ file:///tmp/build/80754af9/tqdm_1593446365756/work
+tqdm==4.65.0
 traitlets==4.3.3
-typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1592847887441/work
+#typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1592847887441/work
+typing-extensions==4.6.2
 ujson==1.35
 unicodecsv==0.14.1
 urllib3==1.25.9
-watchdog @ file:///C:/ci/watchdog_1593447437088/work
-wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+#watchdog @ file:///C:/ci/watchdog_1593447437088/work
+watchdog==3.0.0
+#wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+wcwidth==0.2.6
 webencodings==0.5.1
 Werkzeug==1.0.1
 widgetsnbextension==3.5.1
@@ -315,7 +322,8 @@ XlsxWriter==1.2.9
 xlwings==0.19.5
 xlwt==1.3.0
 xmltodict==0.12.0
-yapf @ file:///tmp/build/80754af9/yapf_1593528177422/work
+#yapf @ file:///tmp/build/80754af9/yapf_1593528177422/work
+yapf==0.33.0
 zict==2.0.0
 zipp==3.1.0
 zope.event==4.4
