@@ -119,7 +119,8 @@ jupyter-core==4.6.3
 jupyterlab==0.0.2
 #jupyterlab-server @ file:///tmp/build/80754af9/jupyterlab_server_1594164409481/work
 jupyterlab-server==2.22.1
-keras==2.12.0
+#keras==2.12.0
+keras==2.11.0
 #keyring @ file:///C:/ci/keyring_1593109799227/work
 keyring==23.13.1
 kiwisolver==1.2.0
