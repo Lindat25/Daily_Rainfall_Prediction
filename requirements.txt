@@ -209,7 +209,8 @@ Pygments==2.6.1
 pylint==2.17.4
 #PyNaCl @ file:///C:/ci/pynacl_1595000047588/work
 PyNaCl==1.5.0
-pyodbc===4.0.0-unsupported
+#pyodbc===4.0.0-unsupported
+pyodbc==4.0.39
 #pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1594392929924/work
 pyOpenSSL==23.1.1
 pyparsing==2.4.7
