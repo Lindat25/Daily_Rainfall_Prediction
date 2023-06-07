@@ -134,7 +134,7 @@ locket==0.2.0
 #lxml @ file:///C:/ci/lxml_1594822774489/work
 lxml==4.9.2
 Markdown==3.4.3
-MarkupSafe==1.1.1
+#MarkupSafe==1.1.1
 #matplotlib @ file:///C:/ci/matplotlib-base_1592837548929/work
 matplotlib==3.5.3
 #mccabe==0.6.1
