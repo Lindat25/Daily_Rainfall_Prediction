@@ -245,7 +245,7 @@ rsa==4.9
 #Rtree==0.9.4
 Rtree==1.0.1
 ruamel-yaml==0.15.87
-scikit-image==0.16.2
+#scikit-image==0.16.2
 #scikit-learn @ file:///C:/ci/scikit-learn_1592853510272/work
 #scikit-learn==1.2.2
 scikit-learn==1.0.2
